@@ -1,0 +1,34 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# TypeScript compiled files
+dist/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp
+
+# Build & cache
+.cache/
+out/
+coverage/
+
+# Docker & deployment
+docker-compose.override.yml
+docker-compose.yml
