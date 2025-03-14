@@ -1,1 +1,1 @@
-{"root":["./src/index.ts","./src/controller/admin.controller.ts","./src/model/admin.model.ts","./src/routes/admin.route.ts","./src/utils/db.ts"],"version":"5.8.2"}
+{"root":["./src/index.ts","./src/controller/admin.controller.ts","./src/controller/blog.controller.ts","./src/middleware/isauthenticated.ts","./src/model/admin.model.ts","./src/model/blog.model.ts","./src/routes/admin.route.ts","./src/routes/blog.route.ts","./src/types/express.d.ts","./src/utils/db.ts"],"version":"5.8.2"}
